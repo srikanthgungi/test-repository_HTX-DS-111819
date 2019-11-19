@@ -1,4 +1,4 @@
-# Test Repository
+# No Test Repository
 
 Gimme a test! (TEST)
 
@@ -6,7 +6,7 @@ Gimme a test! (TEST)
 
 ## Steps to Follow
 
-1. Fork this repository
+1. Fork this repository No I won't and why
 2. Clone _your_ repository to your local drive
 3. Add a file of some kind to your repository, or make changes to this readme
 4. Check the status of your repository
@@ -15,3 +15,5 @@ Gimme a test! (TEST)
 ## Other To-Dos Today:
 
 - Initialize a local git repository, then add it to GitHub
+Non Initializing the content in the Git
+Too many details
