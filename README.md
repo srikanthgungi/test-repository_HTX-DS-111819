@@ -2,7 +2,7 @@
 
 Gimme a test! (TEST)
 
-![Test gif from Giphy](http://giphygifs.s3.amazonaws.com/media/gw3IWyGkC0rsazTi/giphy.gif)
+![Test gif from Giphy](https://media1.tenor.com/images/b6b1dca2d4c13228be8204ce9cfb4d12/tenor.gif?itemid=10153757)
 
 ## Steps to Follow
 
